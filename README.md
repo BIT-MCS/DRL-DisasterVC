@@ -1,6 +1,6 @@
 
 # DRL-DisasterVC
-Additional materials for paper "Energy-Efficient 3D Vehicular Crowdsourcing for Disaster Response by Distributed Deep Reinforcement Learning" submitted to KDD 2021.
+This work "[Energy-Efficient 3D Vehicular Crowdsourcing for Disaster Response by Distributed Deep Reinforcement Learning](https://dl.acm.org/doi/10.1145/3447548.3467070)" has been published in 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining.
 ## :page_facing_up: Description
 DRL-DisasterVC is a distributed
 deep reinforcement learning framework, with a repetitive experience
@@ -127,3 +127,25 @@ This codebase is based on adept and Ray which are open-sourced. Please refer to 
 
 ## :e-mail: Contact
 If you have any question, please email `3120211043@bit.edu.cn`.
+
+## Paper
+If you are interested in our work, please cite our paper as
+```
+@inproceedings{10.1145/3447548.3467070,
+author = {Wang, Hao and Liu, Chi Harold and Dai, Zipeng and Tang, Jian and Wang, Guoren},
+title = {Energy-Efficient 3D Vehicular Crowdsourcing for Disaster Response by Distributed Deep Reinforcement Learning},
+year = {2021},
+isbn = {9781450383325},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3447548.3467070},
+doi = {10.1145/3447548.3467070},
+booktitle = {Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining},
+pages = {3679–3687},
+numpages = {9},
+keywords = {energy-efficiency, distributed deep reinforcement learning, vehicular crowdsourcing, disaster response},
+location = {Virtual Event, Singapore},
+series = {KDD '21}
+}
+
+```
