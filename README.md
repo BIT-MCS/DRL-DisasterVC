@@ -1,6 +1,6 @@
 
 # DRL-DisasterVC
-This is the code accompanying the paper: "[Energy-Efficient 3D Vehicular Crowdsourcing for Disaster Response by Distributed Deep Reinforcement Learning](https://dl.acm.org/doi/10.1145/3447548.3467070)" by Hao Wang, Chi Harold Liu,et al, published at ACM SIGKDD 2021.
+This is the code accompanying the paper: "[Energy-Efficient 3D Vehicular Crowdsourcing for Disaster Response by Distributed Deep Reinforcement Learning](https://dl.acm.org/doi/10.1145/3447548.3467070)" by Hao Wang, Chi Harold Liu, et al, published at ACM SIGKDD 2021.
 ## :page_facing_up: Description
 DRL-DisasterVC is a distributed
 deep reinforcement learning framework, with a repetitive experience
