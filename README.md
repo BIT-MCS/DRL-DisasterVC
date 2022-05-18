@@ -134,18 +134,10 @@ If you are interested in our work, please cite our paper as
 @inproceedings{10.1145/3447548.3467070,
 author = {Wang, Hao and Liu, Chi Harold and Dai, Zipeng and Tang, Jian and Wang, Guoren},
 title = {Energy-Efficient 3D Vehicular Crowdsourcing for Disaster Response by Distributed Deep Reinforcement Learning},
-year = {2021},
-isbn = {9781450383325},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3447548.3467070},
 doi = {10.1145/3447548.3467070},
 booktitle = {Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining},
 pages = {3679–3687},
-numpages = {9},
-keywords = {energy-efficiency, distributed deep reinforcement learning, vehicular crowdsourcing, disaster response},
-location = {Virtual Event, Singapore},
-series = {KDD '21}
+numpages = {9}
 }
 
 ```
